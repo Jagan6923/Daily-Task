@@ -1,4 +1,3 @@
-import React from 'react';
 import { CategorySection } from './CategorySection';
 import { HistorySection } from './HistorySection';
 import { Task, CategoryConfig } from '../types';

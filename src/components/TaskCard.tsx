@@ -1,4 +1,3 @@
-import React from "react";
 import { Task } from "../types";
 import { format } from "date-fns";
 import { Trash2, Check } from "lucide-react";
